@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(164, 184, 228);
+}
+header{
+    margin:  30px 0;
+}
+
+.container{
+    padding: 20px;
+}
+
+.contenido{
+    background-color: rgb(60, 97, 177);
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.contenido-principal{
+    background-color: aliceblue;
+    padding: 30px;
+    border-radius: 20px;
+}
+.presupuesto p{
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.presupuesto p span{
+    font-weight: normal;
+}
+#gastos{
+    margin-bottom: 30px;
+}
+h1{
+    background-color: rgb(56, 104, 209);
+}
+h2{
+    font-family: fantasy;
+}
